@@ -1,13 +1,13 @@
 class Main {
-    static void printNumbers(int i, int n){
-        if (i > n) {
+    static void printNumbers(int n){
+        if (n==0) {
             return;
         }
-        System.out.println(i);
-        printNumbers(i + 1, n);
+        System.out.println(n);
+        printNumbers(n-1);
     }
     public static void main(String[] args) {
         int n = 5;
-        printNumbers(1, n);
+        printNumbers(n);
     }
 }
