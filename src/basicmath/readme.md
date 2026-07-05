@@ -1,62 +1,27 @@
-# ⭐ Java Pattern Printing (Striver DSA Sheet)
+# 🔢 Basic Maths in Java
 
-This folder contains all **22 classic Pattern Printing problems** from the beginning of the Striver DSA course.
+This folder contains beginner-friendly mathematical problems implemented in Java.
 
-These problems are excellent for mastering:
+## 📚 Problems Covered
 
-- Nested Loops
-- Pattern Recognition
-- Loop Traversal
-- Space Management
-- Mathematical Thinking
+- ✅ Count Digits
+- ✅ Reverse a Number
+- ✅ Check Palindrome Number
+- ✅ Armstrong Number
+- ✅ Print All Divisors
+- ✅ Check Prime Number
+- ✅ GCD / HCF of Two Numbers
 
----
+## 🎯 Concepts Learned
 
-## 📂 Patterns Covered
+- Digit Extraction
+- Number Reversal
+- Palindrome Logic
+- Armstrong Numbers
+- Factors & Divisors
+- Prime Number Check
+- Greatest Common Divisor (GCD)
 
-| No. | Pattern |
-|-----|------------------------------|
-| 01 | Solid Square |
-| 02 | Right Triangle |
-| 03 | Number Triangle |
-| 04 | Same Number Triangle |
-| 05 | Inverted Star Triangle |
-| 06 | Inverted Number Triangle |
-| 07 | Star Pyramid |
-| 08 | Inverted Star Pyramid |
-| 09 | Diamond |
-| 10 | Half Diamond |
-| 11 | Binary Number Triangle |
-| 12 | Number Crown |
-| 13 | Incremental Number Triangle |
-| 14 | Alphabet Triangle |
-| 15 | Inverted Alphabet Triangle |
-| 16 | Alphabet Repeated Triangle |
-| 17 | Alphabet Pyramid |
-| 18 | Reverse Alphabet Triangle |
-| 19 | Symmetric Butterfly |
-| 20 | Butterfly |
-| 21 | Hollow Square |
-| 22 | Concentric Number Square |
-
----
-
-## 💡 Concepts Practiced
-
-- Nested Loops
-- Space Handling
-- Star Patterns
-- Number Patterns
-- Alphabet Patterns
-- Symmetry
-- Mathematical Logic
-
----
-
-## 🚀 Language
+## 💻 Language
 
 Java
-
----
-
-Happy Coding! ⭐
