@@ -1,6 +1,6 @@
 package Sorting;
 
-class Solution {
+public class MergeSort {
 
     public static void mergeSort(int[] arr, int low, int high) {
         if (low >= high) {
